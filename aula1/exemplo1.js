@@ -13,3 +13,18 @@ var resultado;
 resultado = Number(numero1) + Number(numero2);
 
 document.write("A soma do numero é" + resultado + "<br>");
+
+resultado = Number(numero1) - Number(numero2);
+
+document.write("A subtração do numero é" + resultado + "<br>");
+
+resultado = Number(numero1) *  Number(numero2);
+
+document.write("O produtos do numero é" + resultado + "<br>");
+
+resultado = Number(numero1) /  Number(numero2);
+
+document.write("A divisão entre os numeros é" + resultado + "<br>");
+
+
+
